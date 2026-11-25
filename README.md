@@ -1,4 +1,4 @@
-[🚀 Open Live App](https://study-sync-ai-plum.vercel.app/hero) · [🎬 Watch 45s Arcade Demo](https://youtu.be/XfthOinztWY) · [✨ Features](#features) · [🛠️ Run Locally](#run-locally)
+[🚀 Open Live App](https://study-sync-ai-plum.vercel.app/hero) · [🎬 Watch 45s Arcade Demo](https://youtu.be/XfthOinztWY) · [✨ Features](#features) · [🛠️ Run Locally](#run-locally)  [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/koundalvivek073-dotcom/badge.svg)](https://hub.xerj.org/contributors/koundalvivek073-dotcom)
 <div align="center">
 
 # StudySync AI 🧠📅
